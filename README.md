@@ -11,5 +11,5 @@ can be used to fact check quotes told by politicians in real time.
 - Model_Text.py: Machine learning models built on the quotes.
 - Model_Text_Source.py: Machine learning models built on the quotes and the person who said it. 
      (*For Example: "Donald Trump, I was against the war in Iraq"*)
-- Politifact.ipynb: The entire Analysis done on Ipython Notebook.
+- Politifact.ipynb: The entire analysis done on Ipython Notebook.
 - Politifact.pptx: Presentation file.
