@@ -6,9 +6,9 @@ can be used to fact check quotes told by politicians in real time.
 
 ## File Description - Python
 
-- Web_Scraping_Politifact.py: Web scraping script to get data Politifact website.
+- Web_Scraping_Politifact.py: Web scraping script to get data from Politifact website.
 - Politifact.csv: The csv file obtained after web scraping.
-- Model_Text.py: Machine learning models built on the quotes.
+- Model_Text.py: Machine learning models built only on the quotes.
 - Model_Text_Source.py: Machine learning models built on the quotes and the person who said it. 
      (*For Example: "Donald Trump, I was against the war in Iraq"*)
 - Politifact.ipynb: The entire analysis done on Ipython Notebook.
